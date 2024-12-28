@@ -1,0 +1,30 @@
+{
+  "version": 3,
+  "name": "ori.zip",
+  "items": [
+    "Ori and the Blind Forest.sh",
+    "ori"
+  ],
+  "items_opt": [],
+  "attr": {
+    "title": "Ori and the Blind Forest",
+    "porter": [
+      "Jeod"
+    ],
+    "desc": "“Ori and the Blind Forest” tells the tale of a young orphan destined for heroics, through a visually stunning Action-Platformer crafted by Moon Studios.",
+    "desc_md": null,
+    "inst": "Buy the game on Steam and copy all the data to `ori/data`.",
+    "inst_md": null,
+    "genres": [
+      "action"
+    ],
+    "image": null,
+    "rtr": true,
+    "exp": false,
+    "runtime": null,
+    "reqs": [],
+    "arch": [
+      "aarch64"
+    ]
+  }
+}
