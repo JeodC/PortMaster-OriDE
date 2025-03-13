@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/ori
+GAMEDIR="/$directory/windows/ori"
 
 # CD and set permissions
 cd $GAMEDIR
