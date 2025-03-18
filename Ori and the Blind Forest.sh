@@ -46,6 +46,7 @@ else
 fi
 
 # Display loading splash
+chmod +x "$GAMEDIR/splash"
 $ESUDO $GAMEDIR/splash "$SPLASH" 30000 & 
 
 # Install dependencies
